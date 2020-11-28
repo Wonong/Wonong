@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m a software engineer working on [Samsung Electronics](https://github.com/Samsung)
+- 🌱 I’m currently learning Python, Data, Cloud.
+- 📫 How to reach me: email
+
+
 ![Wonong's github stats](https://github-readme-stats.vercel.app/api?username=Wonong&theme=vue&show_icons=true)
 
 
