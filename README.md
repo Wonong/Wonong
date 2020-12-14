@@ -2,6 +2,7 @@
 
 - 🔭 I’m a software engineer working on [Samsung Electronics](https://github.com/Samsung)
 - 🌱 I’m currently learning Python, Data, Cloud.
+- 📖 I'm currebtly reading 'Designing Data-Intensive Applications'
 - 📫 How to reach me: email
 
 
