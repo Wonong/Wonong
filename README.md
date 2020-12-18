@@ -2,8 +2,8 @@
 
 - 🔭 I’m a software engineer working on [Samsung Electronics](https://github.com/Samsung)
 - 🌱 I’m currently learning Python, Data, Cloud.
-- 📖 I'm currently reading 'Designing Data-Intensive Applications'
 - 📫 How to reach me: email
+- ⚡ Fun fact: I hate cucumber.
 
 
 ![Wonong's github stats](https://github-readme-stats.vercel.app/api?username=Wonong&theme=vue&show_icons=true)
