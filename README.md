@@ -5,10 +5,6 @@
 - 📫 How to reach me: email
 - ⚡ Fun fact: I hate cucumber.
 
-
-![Wonong's github stats](https://github-readme-stats.vercel.app/api?username=Wonong&theme=vue&show_icons=true)
-
-
 <!--
 **Wonong/Wonong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
