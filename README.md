@@ -3,7 +3,6 @@
 - 🔭 I’m a software engineer working on [Samsung Electronics](https://github.com/Samsung)
 - 🌱 I’m currently learning Python, Data, Cloud.
 - 📫 How to reach me: email
-- ⚡ Fun fact: I hate cucumber.
 
 <!--
 **Wonong/Wonong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
